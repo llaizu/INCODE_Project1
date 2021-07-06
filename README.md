@@ -9,7 +9,7 @@ A "Contact Us" page which displays all of Mr.Coffee's contact information (addre
 
 Prerequisites:
 
-1.We need to install visual studio code for writing codes in three html files and one css file , Assets file where I saved all images and one README file,
+1.We need to install visual studio code for writing codes in three  html files(Home, contact, About) and one css file , Assets file where I saved all images and one README file,
 2.Node.js, git.hub, I used Chrome as my browser
 
 Installation:
@@ -26,7 +26,7 @@ I have mostly reserched by Google search, youtube, W3school, mozilla , Google fo
 HTML, CSS3 is completely new for me, I have been learning only for one week, still I need to know alot of things.
 This website is not a complete version of what the MR. Coffee needs, only one week knowledge I tried my best, 
 what I have done I understood all, my home page rectangles has no logos, although I tried to inserted, also About
-page has some lackings, in the footer I have struggled to set the social logos underneath of the text.
+page has some lackings, in the footer I have struggled to set the social logos underneath the footer text.
 
-I enjoyed each and evry moment while I was creating this multipage website, I have a plan to learn lot of things to bukld a perfect webpage in near future. 
+I enjoyed each and evry moment while I was creating this multipage website, I have a plan to learn lot of things to build a perfect webpage in near future. 
 
